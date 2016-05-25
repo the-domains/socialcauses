@@ -1,0 +1,14 @@
+layout_spectrum: 0.03817851
+typography_spectrum: 0.6506588
+color:
+  saturation: 0.2303155
+  lightness: 0.3065943
+  brandStrength: 0.05275327
+  rhythmicContrast: 0.7103917
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: SocialCauses
