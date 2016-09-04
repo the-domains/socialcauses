@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.03817851
 name: SocialCauses
+navigation:
+  - name: Home
+    id: 38a9ca9e-e101-477e-98d6-3fdcbed9e67e
+    type: content
 title: SocialCauses
 description: Digital solutions for positive social change
