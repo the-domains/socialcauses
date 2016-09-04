@@ -1,16 +1,16 @@
-typography_spectrum: 0.6506588
+layout_spectrum: 0.24335023574531078
+typography_spectrum: 0.7728128037415445
 color:
-  saturation: 0.2303155
-  lightness: 0.3065943
-  brandStrength: 0.05275327
-  rhythmicContrast: 0.7103917
+  saturation: 0.46917329798452556
+  lightness: 0.7639651328790933
+  brandStrength: 0.8653225486632437
+  rhythmicContrast: 0.20081547484733164
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.03817851
+    - '#B8ECD7'
+    - '#083643'
+    - '#B1E001'
+    - '#CEF09D'
+    - '#476C5E'
 name: SocialCauses
 navigation:
   - name: ABOUT
